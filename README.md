@@ -1,5 +1,5 @@
 # Hurdle Models Project
 
-Welcome to my project! You can view the full report here:
+Welcome! You can view the demo of hurdlemodels package here:
 
 [View the Hurdle Models Demo](https://dananjids.github.io/hurdlemodels/demo.html)
