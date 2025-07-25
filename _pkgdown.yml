@@ -1,0 +1,25 @@
+template:
+  bootstrap: 5
+  bootswatch: flatly
+
+articles:
+  - title: "How to use various features of the package."
+    contents:
+      - getting-started
+      - vignette_hurdle
+
+navbar:
+  structure:
+    left:
+      - vignettes
+      - functions
+
+  components:
+
+    vignettes:
+      text: "Vignettes"
+      href: articles/index.html
+
+    functions:
+      text: "Functions"
+      href: reference/index.html
